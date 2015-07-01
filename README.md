@@ -15,27 +15,26 @@ Visit my YouTube page at: http://youtu.be/HySYpgjh0Gs
 
 ![tree](plank-transpo-tree.png)
 
-6. Create a `Hidden` but `Published` Plank Folder under the resource you want Planks in OR create a Plank Folder wherever you want if your using the Global Feature.
-7. Planks are `Hidden` so they dont show up in Search or Sitemaps or Menus
+---
+
+1. Create a `Hidden` but `Published` Plank Folder under the resource you want Planks in OR create a Plank Folder wherever you want if your using the Global Feature.
+2. Planks are `Hidden` so they dont show up in Search or Sitemaps or Menus
 
 ![tree](plank-resource-tree.png)
 
-8. Create your Planks
+---
+
+## Create your Planks
 
 ![plank-mgr](plank-manager.png)
 
-```
-If you want the customized manager page look go to Settings > Manager Customizations (Form Customizations)
 
-Click "Create New Profile" > Name it "Planks"
+> If you want the customized manager page look go to Settings > Manager Customizations (Form Customizations) -> Click "Create New Profile" > Name it "Planks" -> Inside that you will see "Import New Set from XML" -> Import the XML file in this repo
 
-Inside that you will see "Import New Set from XML"
 
-Import the XML file in this repo
+---
 
-```
-
-9. Add the Plank CSS to your stylesheet or call it in your Base Template
+**Add the Plank CSS to your stylesheet or call it in your Base Template**
 
 ---
 
