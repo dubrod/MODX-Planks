@@ -11,10 +11,7 @@ Visit my YouTube page at: http://youtu.be/HySYpgjh0Gs
 2. Install the Transport Package in this repo
 3. Check you have a `Plank Template` (its empty)
 4. Check you have 3 Plank Template Variables
-5. Check you have 4 Plank Chunks
-
-![tree](plank-transpo-tree.png)
-
+5. Check you have 4 Plank Chunks ![tree](plank-transpo-tree.png)
 6. Create a `Hidden` but `Published` Plank Folder under the resource you want Planks in OR create a Plank Folder wherever you want if your using the Global Feature.
 7. Planks are `Hidden` so they dont show up in Search or Sitemaps or Menus
 
